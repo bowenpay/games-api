@@ -1,0 +1,6 @@
+tornado
+requests
+dicttoxml
+xmltodict
+wechat-python-sdk==0.6.1
+netifaces
